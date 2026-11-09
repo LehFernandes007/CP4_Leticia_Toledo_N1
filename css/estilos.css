@@ -456,3 +456,15 @@ iframe { aspect-ratio: 16 / 9; }
 body.tema-escuro .interesses-flex li {
     color: #172b3d;
 }
+
+/* Correção das cores da tabela do currículo */
+
+body.tema-escuro .table thead th,
+body.tema-escuro table thead th {
+    background-color: #34495e;
+    color: #ffffff;
+}
+
+body.tema-escuro table caption {
+    color: #ffffff;
+}
