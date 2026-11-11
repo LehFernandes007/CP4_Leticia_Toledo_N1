@@ -480,10 +480,16 @@ body.tema-escuro table caption {
     .table th,
     .table td {
         min-width: 120px;
+        white-space: normal;
     }
 
     .table th:last-child,
     .table td:last-child {
         min-width: 250px;
+    }
+
+    .table tbody,
+    .table thead {
+        width: max-content;
     }
 }
