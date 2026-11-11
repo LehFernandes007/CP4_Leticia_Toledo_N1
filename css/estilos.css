@@ -468,3 +468,22 @@ body.tema-escuro table thead th {
 body.tema-escuro table caption {
     color: #ffffff;
 }
+
+/* Tabela responsiva no celular */
+@media (max-width: 600px) {
+    .table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    .table th,
+    .table td {
+        min-width: 120px;
+    }
+
+    .table th:last-child,
+    .table td:last-child {
+        min-width: 250px;
+    }
+}
