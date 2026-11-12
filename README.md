@@ -19,5 +19,3 @@ Idioma `pt-BR`, textos alternativos nas fotos, rótulos de navegação, foco vis
 - `js/scripts.js`: tema e formulário
 - `index.html`, `curriculo.html`, `formulario.html`, `multimidia.html`, `graficos.html`: páginas
 
-## Publicação e entrega
-Após testar localmente, fazer commit, merge na `main`, push, verificar GitHub Pages por HTTPS e criar/enviar a tag `cp4-entrega`. A tag `cp3-entrega` não deve ser apagada. Gravar vídeo narrado de 1min30s a 2min30s mostrando o site **publicado**. Entregar vídeo, repositório/tag e site no Blackboard.
